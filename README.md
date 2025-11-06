@@ -35,5 +35,6 @@ int main() {
 
 
 # RESULT:
+Thus,the program executed successfully.
 
 
